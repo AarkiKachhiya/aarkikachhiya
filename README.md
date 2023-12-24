@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Web Developement
-- 🌱 I’m currently learning Bootstrap, Javascript
+- 🌱 I’m currently learning Backend Development
 - 💬 Ask me about Web developement
 - 📫 How to reach me aarki232@gmail.com
 
